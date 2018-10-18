@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="OSPS" Class="T_UserDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=OSPS;Persist Security Info=True;User ID=sa;Pooling=False" SettingsObjectName="OSPS.AppFramework.DBModule.Properties.Settings" SettingsPropertyName="OSPSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.T_User" Member="T_User">
+    <Type Name="T_User">
+      <Column Name="F_Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="F_Name" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="F_Password" Type="System.String" DbType="NVarChar(10) NOT NULL" CanBeNull="false" />
+      <Column Name="F_Value" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="F_GroupId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="f_Enable" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="F_Description" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Association Name="T_Group_T_User" Member="T_Group" ThisKey="F_GroupId" Type="T_Group" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.T_Group" Member="T_Group">
+    <Type Name="T_Group">
+      <Column Name="F_Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="F_Name" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Column Name="F_Description" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Association Name="T_Group_T_User" Member="T_User" OtherKey="F_GroupId" Type="T_User" />
+      <Association Name="T_Group_T_Rule" Member="T_Rule" OtherKey="F_GroupId" Type="T_Rule" />
+    </Type>
+  </Table>
+  <Table Name="dbo.T_Module" Member="T_Module">
+    <Type Name="T_Module">
+      <Column Name="F_Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="F_Name" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="F_Description" Type="System.String" DbType="NVarChar(128) NOT NULL" CanBeNull="false" />
+      <Association Name="T_Module_T_Rule" Member="T_Rule" OtherKey="F_ModuleId" Type="T_Rule" />
+    </Type>
+  </Table>
+  <Table Name="dbo.T_Rule" Member="T_Rule">
+    <Type Name="T_Rule">
+      <Column Name="F_Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="F_GroupId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="F_ModuleId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="T_Group_T_Rule" Member="T_Group" ThisKey="F_GroupId" Type="T_Group" IsForeignKey="true" />
+      <Association Name="T_Module_T_Rule" Member="T_Module" ThisKey="F_ModuleId" Type="T_Module" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>

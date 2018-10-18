@@ -1,0 +1,144 @@
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+D:\OSPSTest\bin\Release\OSPS.AppFramework.ViewBase.dll
+D:\OSPSTest\bin\Release\OSPS.AppFramework.ViewBase.pdb
+D:\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+D:\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+D:\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+D:\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+D:\OSPSTest\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+D:\DiskE\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+D:\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+D:\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+D:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+D:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+D:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+D:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+D:\ABOSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+D:\ABOSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+D:\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+D:\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+D:\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+D:\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.ViewBase.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.ViewBase.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.UIView.resources
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll.licenses
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Release\OSPS.AppFramework.ViewBase.pdb

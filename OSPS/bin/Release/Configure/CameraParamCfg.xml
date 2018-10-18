@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CameraParam>
+  <!--公共配置-->
+  <CameraConfigure>
+    <!--设备IP-->
+    <add key="DeviceIP" value="10.80.79.33" />
+    <!--设备端口号-->
+    <add key="PortNumber" value="8000" />
+    <!--用户名-->
+    <add key="UserName" value="admin" />
+	 <!--用户密码-->
+    <add key="Password" value="admin12345" />
+  </CameraConfigure>
+  <!--道闸配置-->
+  <GateCtrlConfigure>
+     <!--道闸控制端口-->
+    <add key ="GateCtrlPort" value ="COM4" />
+    <!--当前所用道闸, 1或者2-->
+    <add key ="CurrentGateUsed" value ="1" />
+    <!--打开1#道闸的通道-->
+    <add key ="OpenGate1Channel" value ="0" />
+    <!--关闭1#道闸的通道-->
+    <add key ="CloseGate1Channel" value ="1" />
+  </GateCtrlConfigure>
+  <PicturePath>
+    <!--抓拍图片保存路径-->
+    <add key ="SavePictureFolder" value ="E:\\Picture\\" />
+  </PicturePath>
+</CameraParam>

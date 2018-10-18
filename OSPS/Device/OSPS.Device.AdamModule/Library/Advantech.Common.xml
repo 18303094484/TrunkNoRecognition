@@ -1,0 +1,1206 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Advantech.Common</name>
+    </assembly>
+    <members>
+        <member name="T:Advantech.Common.Baudrate">
+            <summary>
+            Baud rate settings.
+            Supported Rates: 110, 300, 600, 1200, 2400, 4800, 9600
+            14400, 19200, 38400, 56000, 57600, 115200, 128000, 256000
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_110">
+            <summary>
+            Baudrate 110
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_300">
+            <summary>
+            Baudrate 300
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_600">
+            <summary>
+            Baudrate 600
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_1200">
+            <summary>
+            Baudrate 1200
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_2400">
+            <summary>
+            Baudrate 2400
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_4800">
+            <summary>
+            Baudrate 4800
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_9600">
+            <summary>
+            Baudrate 9600
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_14400">
+            <summary>
+            Baudrate 14400
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_19200">
+            <summary>
+            Baudrate 19200
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_38400">
+            <summary>
+            Baudrate 38400
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_56000">
+            <summary>
+            Baudrate 56000
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_57600">
+            <summary>
+            Baudrate 57600
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_115200">
+            <summary>
+            Baudrate 115200
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_128000">
+            <summary>
+            Baudrate 128000
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Baudrate.Baud_256000">
+            <summary>
+            Baudrate 256000
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Parity">
+            <summary>
+            Parity settings
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Parity.None">
+            <summary>
+            Characters do not have a parity bit.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Parity.Odd">
+            <summary>
+            Set if there are an odd number of 1s in the character.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Parity.Even">
+            <summary>
+            Set if there are an even number of 1s in the character.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Parity.Mark">
+            <summary>
+            The parity bit is always 1.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Parity.Space">
+            <summary>
+            The parity bit is always 0.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Databits">
+            <summary>
+            Data bits setting.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Databits.Five">
+            <summary>
+            Five bits per data byte.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Databits.Six">
+            <summary>
+            Six bits per data byte.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Databits.Seven">
+            <summary>
+            Seven bits per data byte.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Databits.Eight">
+            <summary>
+            Eight bits per data byte.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Stopbits">
+            <summary>
+            Stop bit settings
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Stopbits.One">
+            <summary>
+            Line is asserted for 1 bit duration at end of each character
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Stopbits.OneAndHalf">
+            <summary>
+            Line is asserted for 1.5 bit duration at end of each character
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Stopbits.Two">
+            <summary>
+            Line is asserted for 2 bit duration at end of each character
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Purge">
+            <summary>
+            Purge settings
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Purge.TxAbort">
+            <summary>
+            Terminate all write operation
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Purge.RxAbort">
+            <summary>
+            Terminate all read operation
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Purge.TxClear">
+            <summary>
+            Clear output buffer
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Purge.RxClear">
+            <summary>
+            Clear input buffer
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Event">
+            <summary>
+            Event settings
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.Break">
+            <summary>
+            A break was detected on input.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.Cts">
+            <summary>
+            The CTS (clear-to-send) signal changed state.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.Dsr">
+            <summary>
+            The DSR (data-set-ready) signal changed state.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.Err">
+            <summary>
+            A line-status error occurred.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.Ring">
+            <summary>
+            A ring indicator was detected.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.Rlsd">
+            <summary>
+            The RLSD (receive-line-signal-detect) signal changed state.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.RxChar">
+            <summary>
+            A character was received and placed in the input buffer.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.RxFlag">
+            <summary>
+            The event character was received and placed in the input buffer.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Event.TxEmpty">
+            <summary>
+            The last character in the output buffer was sent.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.ComPort">
+            <summary>
+            Serial communications base interface class library for Windows CE.
+            This class is provided by Advantech.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.CreateFile(System.String,System.UInt32,System.UInt32,System.IntPtr,System.UInt32,System.UInt32,System.IntPtr)">
+            <summary>
+            The CreateFile function creates or opens any of the following 
+            objects and returns a handle that can be used to access the object: 
+            Consoles, Communications resources, Directories (open only), 
+            Disk devices, Files, Mailslots, Pipes 
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.CloseHandle(System.IntPtr)">
+            <summary>
+            The CloseHandle function closes an open object handle.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.ReadFile(System.IntPtr,System.Byte[],System.UInt32,System.UInt32@,System.IntPtr)">
+            <summary>
+            The ReadFile function reads data from a file, starting at the 
+            position indicated by the file pointer. After the read operation 
+            has been completed, the file pointer is adjusted by the number 
+            of bytes actually read, unless the file handle is created with the 
+            overlapped attribute. If the file handle is created for overlapped 
+            input and output (I/O), the application must adjust the position of 
+            the file pointer after the read operation. 
+            This function is designed for both synchronous and asynchronous 
+            operation. The ReadFileEx function is designed solely for asynchronous 
+            operation. It lets an application perform other processing during a 
+            file read operation.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.WriteFile(System.IntPtr,System.Byte[],System.UInt32,System.UInt32@,System.IntPtr)">
+            <summary>
+            The WriteFile function writes data to a file and is designed for both 
+            synchronous and asynchronous operation. The function starts writing data 
+            to the file at the position indicated by the file pointer. After the write 
+            operation has been completed, the file pointer is adjusted by the number of 
+            bytes actually written, except when the file is opened with FILE_FLAG_OVERLAPPED. 
+            If the file handle was created for overlapped input and output (I/O), the 
+            application must adjust the position of the file pointer after the write 
+            operation is finished. 
+            This function is designed for both synchronous and asynchronous operation. 
+            The WriteFileEx function is designed solely for asynchronous operation. 
+            It lets an application perform other processing during a file write operation.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.PurgeComm(System.IntPtr,System.UInt32)">
+            <summary>
+            The PurgeComm function discards all characters from the output or input 
+            buffer of a specified communications resource. It can also terminate any 
+            pending read or write operations on the resource. 
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetCommMask(System.IntPtr,System.UInt32@)">
+            <summary>
+            The GetCommMask function retrieves the value of the event mask 
+            for a specified communications device.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetCommMask(System.IntPtr,System.UInt32)">
+            <summary>
+            The SetCommMask function specifies a set of events to be monitored 
+            for a communications device.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.WaitCommEvent(System.IntPtr,System.UInt32@,System.IntPtr)">
+            <summary>
+            The WaitCommEvent function waits for an event to occur 
+            for a specified communications device. The set of events 
+            that are monitored by this function is contained in the 
+            event mask associated with the device handle. 
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetCommState(System.IntPtr,Advantech.Common.ComPort.DCB@)">
+            <summary>
+            The GetCommState function retrieves the current control settings for 
+            a specified communications device.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetCommState(System.IntPtr,Advantech.Common.ComPort.DCB@)">
+            <summary>
+            The SetCommState function configures a communications device according to the 
+            specifications in a device control block (a DCB structure). The function 
+            reinitializes all hardware and control settings, but it does not empty output 
+            or input queues.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetCommTimeouts(System.IntPtr,Advantech.Common.ComPort.COMMTIMEOUTS@)">
+            <summary>
+            The GetCommTimeouts function retrieves the time-out parameters for
+            all read and write operations on a specified communications device.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetCommTimeouts(System.IntPtr,Advantech.Common.ComPort.COMMTIMEOUTS@)">
+            <summary>
+            The SetCommTimeouts function sets the time-out parameters for all read and 
+            write operations on a specified communications device.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ComPort.#ctor(System.Int32)">
+            <summary>
+            The ComPort class constructor.
+            </summary>
+            <param name="i_i32Port">The port number which is ranged from 1 to 256</param>
+        </member>
+        <member name="M:Advantech.Common.ComPort.#ctor(System.String)">
+            <summary>
+            The ComPort class constructor.
+            </summary>
+            <param name="i_szPort">The port name</param>
+        </member>
+        <member name="M:Advantech.Common.ComPort.OpenComPort">
+            <summary>
+            Open the COM port and get the COM port setting from system
+            </summary>
+            <returns>True if port opened successfully.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.CloseComPort">
+            <summary>
+            Close the COM port.
+            </summary>
+            <returns>True if executed successfully.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetComPortState(Advantech.Common.Baudrate,Advantech.Common.Databits,Advantech.Common.Parity,Advantech.Common.Stopbits)">
+            <summary>
+            Set the COM port state.
+            </summary>
+            <param name="i_i32Baudrate">
+            Baud rate at which the communications device operates.
+            Supported Rates: 
+            Baudrate.Baud_110, Baudrate.Baud_300, Baudrate.Baud_600, 
+            Baudrate.Baud_1200, Baudrate.Baud_2400, Baudrate.Baud_4800, 
+            Baudrate.Baud_9600, Baudrate.Baud_14400, Baudrate.Baud_19200, 
+            Baudrate.Baud_38400, Baudrate.Baud_56000, Baudrate.Baud_57600, 
+            Baudrate.Baud_115200, Baudrate.Baud_128000, Baudrate.Baud_256000
+            </param>
+            <param name="i_btDataBits">
+            Number of bits in the bytes transmitted and received.
+            Supported: 
+            Databits.Five, Databits.Six, Databits.Seven, Databits.Eight
+            </param>
+            <param name="i_btParity">
+            Parity scheme to be used. This member can be one of the following values.
+            Supported:
+            Parity.None, Parity.Odd, Parity.Even, Parity.Mark, Parity.Space
+            </param>
+            <param name="i_btStop">
+            Number of stop bits to be used. This member can be 
+            Supported:
+            Stopbits.One, Stopbits.OneFive, Stopbits.Two.
+            </param>
+            <returns>True if successful.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetComPortState(Advantech.Common.Baudrate@,Advantech.Common.Databits@,Advantech.Common.Parity@,Advantech.Common.Stopbits@)">
+            <summary>
+            Read the device control settings to the class DCB structure.
+            </summary>
+            <param name="o_i32Baudrate">
+            Baud rate at which the communications device operates.
+            Supported Rates: 
+            Baudrate.Baud_110, Baudrate.Baud_300, Baudrate.Baud_600, 
+            Baudrate.Baud_1200, Baudrate.Baud_2400, Baudrate.Baud_4800, 
+            Baudrate.Baud_9600, Baudrate.Baud_14400, Baudrate.Baud_19200, 
+            Baudrate.Baud_38400, Baudrate.Baud_56000, Baudrate.Baud_57600, 
+            Baudrate.Baud_115200, Baudrate.Baud_128000, Baudrate.Baud_256000
+            </param>
+            <param name="o_btDataBits">
+            Number of bits in the bytes transmitted and received.
+            Supported: 
+            Databits.Five, Databits.Six, Databits.Seven, Databits.Eight
+            </param>
+            <param name="o_btParity">
+            Parity scheme using. This member can be one of the following values.
+            Supported:
+            Parity.None, Parity.Odd, Parity.Even, Parity.Mark, Parity.Space
+            </param>
+            <param name="o_btStop">
+            Number of stop bits using. This member can be 
+            Supported:
+            Stopbits.One, Stopbits.OneFive, Stopbits.Two.
+            </param>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetComPortTimeout(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Update the COM port timeout.
+            </summary>
+            <param name="i_i32ReadInterval">Read interval timeout in milli-seconds.</param>
+            <param name="i_i32ReadTotalConstant">Read total timeout constant in milli-seconds.</param>
+            <param name="i_i32ReadTotalMultiplier">Read total timeout multiplier in milli-seconds.</param>
+            <param name="i_i32WriteTotalConstant">Write total timeout constant in milli-seconds.</param>
+            <param name="i_i32WriteTotalMultiplier">Write total timeout multiplier in milli-seconds.</param>
+            <returns>True if update successful.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetComPortTimeout(System.Int32@,System.Int32@,System.Int32@,System.Int32@,System.Int32@)">
+            <summary>
+            Get the COM port timeout.
+            </summary>
+            <param name="o_i32ReadInterval">Read interval timeout in milli-seconds.</param>
+            <param name="o_i32ReadTotalConstant">Read total timeout constant in milli-seconds.</param>
+            <param name="o_i32ReadTotalMultiplier">Read total timeout multiplier in milli-seconds.</param>
+            <param name="o_i32WriteTotalConstant">Write total timeout constant in milli-seconds.</param>
+            <param name="o_i32WriteTotalMultiplier">Write total timeout multiplier in milli-seconds.</param>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetComPortEventMask(System.Int32)">
+            <summary>
+            Set the COM port events to be monitored
+            </summary>
+            <param name="i_i32Event">
+            The value could be the combination of 
+            Event.BREAK
+            Event.CTS
+            Event.DSR
+            Event.ERR
+            Event.RING
+            Event.RLSD
+            Event.RXCHAR
+            Event.RXFLAG
+            Event.TXEMPTY
+            </param>
+            <returns>True if update successful.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetComPortEventMask(System.Int32@)">
+            <summary>
+            Get the COM port events monitored
+            </summary>
+            <param name="o_i32Event">
+            The value could be the combination of 
+            Event.BREAK
+            Event.CTS
+            Event.DSR
+            Event.ERR
+            Event.RING
+            Event.RLSD
+            Event.RXCHAR
+            Event.RXFLAG
+            Event.TXEMPTY
+            </param>
+            <returns>True if get successful.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.WaitComPortEvent(System.Int32@)">
+            <summary>
+            Wait for an event to occur for the COM port.
+            </summary>
+            <param name="o_i32Event">
+            The event occurs. It could be one of
+            Event.BREAK
+            Event.CTS
+            Event.DSR
+            Event.ERR
+            Event.RING
+            Event.RLSD
+            Event.RXCHAR
+            Event.RXFLAG
+            Event.TXEMPTY
+            </param>
+            <returns>True if get successful.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.SetPurge(System.Int32)">
+            <summary>
+            Flush the I/O buffers.
+            </summary>
+            <param name="i_iFlags">
+            The value could be the combination of 
+            Purge.TXABORT
+            Purge.RXABORT
+            Purge.TXCLEAR
+            Purge.RXCLEAR
+            </param>
+            <returns>True if update successful.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetPortNum">
+            <summary>
+            Get the port number for this object.
+            </summary>
+            <returns>The port number.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.Send(System.Int32,System.Byte[])">
+            <summary>
+            Send binary data to this COM port.
+            </summary>
+            <param name="i_i32Len">The length of data to write</param>
+            <param name="i_btData">The data buffer</param>
+            <returns>The number of bytes sent.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.Send(System.String)">
+            <summary>
+            Send a string to this COM port.
+            </summary>
+            <param name="i_szData">The string data</param>
+            <returns>The number of bytes sent.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.Recv(System.Int32,System.Byte[]@)">
+            <summary>
+            Receive binary data from this COM port.
+            </summary>
+            <param name="i_i32Len">The length of data to read</param>
+            <param name="o_btData">The data buffer which must have enough space</param>
+            <returns>The number of bytes received.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.Recv(System.String@)">
+            <summary>
+            Receive string from this COM port. 
+            If the carrage return character is received, this function will assume this is the end of the string.
+            The maximum length of string can be received is 1024.
+            </summary>
+            <param name="o_szData">The string</param>
+            <returns>The length of string received.</returns>
+        </member>
+        <member name="M:Advantech.Common.ComPort.GetComPortLastError">
+            <summary>
+            Get the last error when calling Win API.
+            </summary>
+            <returns>The error code.</returns>
+        </member>
+        <member name="P:Advantech.Common.ComPort.IsOpen">
+            <summary>
+            Get the COM port open status.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.ComPort.DCB">
+            <summary>
+            The DCB structure defines the control setting for a serial communications device. 
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.dcbLength">
+            <summary>
+            Length, in bytes, of the DCB structure
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.baudRate">
+            <summary>
+            Baud rate at which the communications device operates.
+            Supported Rates: 110, 300, 600, 1200, 2400, 4800, 9600
+            14400, 19200, 38400, 56000, 57600, 115200, 128000, 256000
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.dwFlag">
+            <summary>
+            Packed bitfield from win32 struct. 
+            </summary>
+            fBinary:1 - Indicates whether binary mode is enabled. 
+            Windows does not support nonbinary mode transfers, so this member must be TRUE.
+              
+            fParity:1 - Indicates whether parity checking is enabled. 
+            If this member is TRUE, parity checking is performed and errors are reported. 
+            
+            fOutxCtsFlow:1 - Indicates whether the CTS (clear-to-send) signal is monitored 
+            for output flow control. If this member is TRUE and CTS is turned off, output 
+            is suspended until CTS is sent again. 
+            
+            fOutxDsrFlow:1 - Indicates whether the DSR (data-set-ready) signal is monitored 
+            for output flow control. If this member is TRUE and DSR is turned off, output is 
+            suspended until DSR is sent again. 
+            
+            fDtrControl:2 - DTR (data-terminal-ready) flow control. This member can be one 
+            of the following values. 
+            	DTR_CONTROL_DISABLE		Disables the DTR line when the device is opened and
+            							leaves it disabled. 
+            	DTR_CONTROL_ENABLE		Enables the DTR line when the device is opened and
+            							leaves it on. 
+            	DTR_CONTROL_HANDSHAKE	Enables DTR handshaking. If handshaking is enabled,
+            							it is an error for the application to adjust the line
+            							by using the EscapeCommFunction function. 
+            
+            fDsrSensitivity:1 - Indicates whether the communications driver is sensitive to 
+            the state of the DSR signal. If this member is TRUE, the driver ignores any bytes 
+            received, unless the DSR modem input line is high. 
+            
+            fTXContinueOnXoff:1 - Indicates whether transmission stops when the input buffer 
+            is full and the driver has transmitted the XoffChar character. If this member is 
+            TRUE, transmission continues after the input buffer has come within XoffLim bytes 
+            of being full and the driver has transmitted the XoffChar character to stop 
+            receiving bytes. If this member is FALSE, transmission does not continue until 
+            the input buffer is within XonLim bytes of being empty and the driver has 
+            transmitted the XonChar character to resume reception. 
+            
+            fOutX:1 - Indicates whether XON/XOFF flow control is used during transmission. 
+            If this member is TRUE, transmission stops when the XoffChar character is received 
+            and starts again when the XonChar character is received.
+            
+            fInX:1 -  Indicates whether XON/XOFF flow control is used during reception. 
+            If this member is TRUE, the XoffChar character is sent when the input buffer 
+            comes within XoffLim bytes of being full, and the XonChar character is sent 
+            when the input buffer comes within XonLim bytes of being empty. 
+            
+            fErrorChar: 1 -  Indicates whether bytes received with parity errors are replaced 
+            with the character specified by the ErrorChar member. If this member is TRUE and 
+            the fParity member is TRUE, replacement occurs.
+            
+            fNull:1 - Indicates whether null bytes are discarded. If this member is TRUE, 
+            null bytes are discarded when received.
+            
+            fRtsControl:2 - RTS (request-to-send) flow control. This member can be one of the 
+            following values.
+            	RTS_CONTROL_DISABLE		Disables the RTS line when the device is opened and 
+            							leaves it disabled. 
+            	RTS_CONTROL_ENABLE		Enables the RTS line when the device is opened and 
+            							leaves it on. 
+            	RTS_CONTROL_HANDSHAKE	Enables RTS handshaking. The driver raises the RTS line
+            							when the "type-ahead" (input) buffer is less than 1/2 
+            							full and lowers the RTS line when the buffer is more than
+            							three-quarters full. If handshaking is enabled, it is 
+            							an error for the application to adjust the line by using
+            							the EscapeCommFunction function.
+            	RTS_CONTROL_TOGGLE		Windows NT/2000/XP: Specifies that the RTS line will be
+            							high if bytes are available for transmission. After all
+            							buffered bytes have been sent, the RTS line will be low. 
+            
+            fAbortOnError:1 - Indicates whether read and write operations are terminated if an 
+            error occurs. If this member is TRUE, the driver terminates all read and write 
+            operations with an error status if an error occurs. The driver will not accept 
+            any further communications operations until the application has acknowledged the 
+            error by calling the ClearCommError function.
+            
+            fDummy2:17 - Reserved; do not use. 
+            internal Int32	bitfield;
+            
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.wReserved">
+            <summary>
+            Reserved; must be zero.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.xonLim">
+            <summary>
+            Minimum number of bytes allowed in the input buffer before flow control 
+            is activated to inhibit the sender. Note that the sender may transmit 
+            characters after the flow control signal has been activated, so this value 
+            should never be zero. This assumes that either XON/XOFF, RTS, or DTR input 
+            flow control is specified in fInX, fRtsControl, or fDtrControl.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.xoffLim">
+            <summary>
+            Maximum number of bytes allowed in the input buffer before flow control 
+            is activated to allow transmission by the sender. This assumes that either 
+            XON/XOFF, RTS, or DTR input flow control is specified in fInX, fRtsControl, 
+            or fDtrControl. The maximum number of bytes allowed is calculated by 
+            subtracting this value from the size, in bytes, of the input buffer.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.byteSize">
+            <summary>
+            Number of bits in the bytes transmitted and received. 
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.prtyByte">
+            <summary>
+            Parity scheme to be used. This member can be one of the following values.
+            Even, Mark, None, Odd, Space 
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.stopBits">
+            <summary>
+            Number of stop bits to be used. This member can be 1, 1.5, or 2 stop bits.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.xonChar">
+            <summary>
+            Value of the XON character for both transmission and reception. 
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.xoffChar">
+            <summary>
+            Value of the XOFF character for both transmission and reception. 
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.errorChar">
+            <summary>
+            Value of the character used to replace bytes received with a parity error.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.eofChar">
+            <summary>
+            Value of the character used to signal the end of data.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.evtChar">
+            <summary>
+            Value of the character used to signal an event.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ComPort.DCB.wReserved1">
+            <summary>
+            Reserved; do not use.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.ComPort.COMMTIMEOUTS">
+            <summary>
+            The COMMTIMEOUTS structure is used in the SetCommTimeouts and GetCommTimeouts 
+            functions to set and query the time-out parameters for a communications device. 
+            The parameters determine the behavior of ReadFile, WriteFile, ReadFileEx, and 
+            WriteFileEx operations on the device.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.ICMP_ECHO_REPLY">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.ICMP_ECHO_REPLY.#ctor(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="size"></param>
+        </member>
+        <member name="F:Advantech.Common.ICMP_ECHO_REPLY.data">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY._Data">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.Address">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.Status">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.RoundTripTime">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.DataSize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.Data">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.Ttl">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.Tos">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.Flags">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.OptionsSize">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.ICMP_ECHO_REPLY.OptionsData">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Ping">
+            <summary>
+            Summary description for Ping.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.Ping.LocalAlloc(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="flags"></param>
+            <param name="size"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Advantech.Common.Ping.LocalFree(System.IntPtr)">
+            <summary>
+            
+            </summary>
+            <param name="pMem"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Advantech.Common.Ping.IcmpCreateFile">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Advantech.Common.Ping.IcmpCloseHandle(System.IntPtr)">
+            <summary>
+            
+            </summary>
+            <param name="h"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Advantech.Common.Ping.IcmpSendEcho(System.IntPtr,System.UInt32,System.Byte[],System.Int16,System.IntPtr,System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="IcmpHandle"></param>
+            <param name="DestinationAddress"></param>
+            <param name="RequestData"></param>
+            <param name="RequestSize"></param>
+            <param name="RequestOptions"></param>
+            <param name="ReplyBuffer"></param>
+            <param name="ReplySize"></param>
+            <param name="Timeout"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Advantech.Common.Ping.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.Ping.Initialize(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="i_iTimeout"></param>
+        </member>
+        <member name="M:Advantech.Common.Ping.PingIP(System.String,System.String@)">
+            <summary>
+            
+            </summary>
+            <param name="i_szIPAddr"></param>
+            <param name="o_szMessage"></param>
+        </member>
+        <member name="M:Advantech.Common.Ping.Terminate">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.Ping.LastError">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Advantech.Common.SocketStream">
+            <summary>
+            Summary description for SocketStream.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.SocketStream.#ctor(System.Net.Sockets.Socket@,System.Int32,System.Int32)">
+            <summary>
+            The socket stream class.
+            </summary>
+            <param name="i_socket">The socket object.</param>
+            <param name="i_iSendTimeout"></param>
+            <param name="i_iRecvTimeout"></param>
+        </member>
+        <member name="M:Advantech.Common.SocketStream.SendUDP(System.Net.EndPoint@,System.Byte[],System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="i_remoteEP"></param>
+            <param name="i_byData"></param>
+            <param name="i_iLen"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Advantech.Common.SocketStream.RecvUDP(System.Net.EndPoint@,System.Byte[],System.Int32@)">
+            <summary>
+            To receive UDP datagram.
+            </summary>
+            <param name="o_remoteEP"></param>
+            <param name="i_byData">The data buffer for storing data.</param>
+            <param name="o_iLen">The length of data received.</param>
+            <returns>Return true if data received, otherwise return false.</returns>
+        </member>
+        <member name="M:Advantech.Common.SocketStream.DataArrive(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="i_iWaitMilliSecond"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Advantech.Common.ErrorCode">
+            <summary>
+            The Advantech error code
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.No_Error">
+            <summary>
+            No error
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.ComPort_Error">
+            <summary>
+            ComPort error
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.ComPort_Open_Fail">
+            <summary>
+            ComPort open fail
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.ComPort_Send_Fail">
+            <summary>
+            ComPort send fail
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.ComPort_Recv_Fail">
+            <summary>
+            ComPort receive fail
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Socket_Null">
+            <summary>
+            Socket is null
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Socket_Connect_Fail">
+            <summary>
+            Socket connect fail
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Socket_Invalid_IP">
+            <summary>
+            Invalid IP
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Socket_Send_Fail">
+            <summary>
+            Socket send fail
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Socket_Recv_Fail">
+            <summary>
+            Socket send fail
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Socket_Unknown">
+            <summary>
+            The error cannnot be identified
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_Head">
+            <summary>
+            Adam protocol response header is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_End">
+            <summary>
+            Adam protocol response header is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_Length">
+            <summary>
+            Adam protocol response length is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_Data">
+            <summary>
+            Adam protocol response data is invalid, which causes the convertion failed
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_Checksum">
+            <summary>
+            Adam protocol response checksum is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_Param">
+            <summary>
+            The parameter is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Invalid_Password">
+            <summary>
+            The password is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Invalid_CRC">
+            <summary>
+            Received modbus packet CRC is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Invalid_Length">
+            <summary>
+            Received modbus packet length is invalid
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Invalid_Serial">
+            <summary>
+            Serial number of received modbus packet is different from the sent one
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception">
+            <summary>
+            The modbus response with exception, this is the base
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_IllegalFunction">
+            <summary>
+            The modbus response with exception 01
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_IllegalDataAddress">
+            <summary>
+            The modbus response with exception 02
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_IllegalDataValue">
+            <summary>
+            The modbus response with exception 03
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_SlaveDeviceFailure">
+            <summary>
+            The modbus response with exception 04
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_Acknowledge">
+            <summary>
+            The modbus response with exception 05
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_SlaveDeviceBusy">
+            <summary>
+            The modbus response with exception 06
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_NativeAcknowledge">
+            <summary>
+            The modbus response with exception 07
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Modbus_Exception_MemoryParityError">
+            <summary>
+            The modbus response with exception 08
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.ErrorCode.Adam_Null_Error">
+            <summary>
+            Internal Null detected
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.Tool">
+            <summary>
+            Summary description for Class1.
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Tool.m_CRCHi">
+            <summary>
+            Table of CRC values for high-order byte
+            </summary>
+        </member>
+        <member name="F:Advantech.Common.Tool.m_CRCLo">
+            <summary>
+            Table of CRC values for low-order byte
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.Tool.#cctor">
+            <summary>
+            Static Tool class
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.Tool.CRC16(System.Byte[],System.Int32,System.Byte[]@)">
+            <summary>
+            Calculate the CRC16
+            </summary>
+            <param name="i_byData">The data for calculating CRC</param>
+            <param name="i_iLen">The data length</param>
+            <param name="o_byCRC16">The two bytes CRC16 data</param>
+        </member>
+        <member name="M:Advantech.Common.Tool.ValidateCRC(System.Byte[]@,System.Int32@)">
+            <summary>
+            Validate the CRC, and remove the CRC data if CRC is valid
+            </summary>
+            <param name="i_byData">The data for validating CRC</param>
+            <param name="i_iLen">The data length</param>
+            <returns>true if CRC is valid, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Common.Tool.HexStringToRTUArray(System.String,System.Byte[]@)">
+            <summary>
+            Convert a HEX string to a RTU array
+            </summary>
+            <param name="i_szHex">The HEX string.</param>
+            <param name="o_byRTU">The RTU array.</param>
+        </member>
+        <member name="M:Advantech.Common.Tool.RTUArrayToHexString(System.Byte[],System.String@)">
+            <summary>
+            Convert a RTU array to a HEX string
+            </summary>
+            <param name="i_byRTU">The RTU array.</param>
+            <param name="o_szHex">The HEX string.</param>
+        </member>
+        <member name="T:Advantech.Common.UDPSocketClient">
+            <summary>
+            Summary description for UDPClient.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketClient.#ctor">
+            <summary>
+            The UDP client class.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketClient.Create">
+            <summary>
+            Create the UDP client.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketClient.Terminate">
+            <summary>
+            Terminate the UDP client.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketClient.ClientSocket">
+            <summary>
+            The UDP client socket.
+            </summary>
+            <returns>The socket object.</returns>
+        </member>
+        <member name="P:Advantech.Common.UDPSocketClient.SendTimeout">
+            <summary>
+            Send timeout.
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.UDPSocketClient.ReceiveTimeout">
+            <summary>
+            Receive timeout.
+            </summary>
+        </member>
+        <member name="T:Advantech.Common.UDPSocketServer">
+            <summary>
+            Summary description for UDPServer.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketServer.#ctor">
+            <summary>
+            The UDP server class.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketServer.Create(System.Int32)">
+            <summary>
+            Create the UDP server.
+            </summary>
+            <param name="i_iPort">The port to listen.</param>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketServer.Terminate">
+            <summary>
+            Terminate the UDP server.
+            </summary>
+        </member>
+        <member name="M:Advantech.Common.UDPSocketServer.ServerSocket">
+            <summary>
+            The UDP server socket.
+            </summary>
+            <returns>The socket object.</returns>
+        </member>
+        <member name="P:Advantech.Common.UDPSocketServer.SendTimeout">
+            <summary>
+            Send timeout.
+            </summary>
+        </member>
+        <member name="P:Advantech.Common.UDPSocketServer.ReceiveTimeout">
+            <summary>
+            Receive timeout.
+            </summary>
+        </member>
+    </members>
+</doc>

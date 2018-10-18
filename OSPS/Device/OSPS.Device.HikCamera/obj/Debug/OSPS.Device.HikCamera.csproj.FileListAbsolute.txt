@@ -1,0 +1,5 @@
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\bin\Debug\OSPS.Device.HikCamera.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\bin\Debug\OSPS.Device.HikCamera.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\obj\Debug\OSPS.Device.HikCamera.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\obj\Debug\OSPS.Device.HikCamera.pdb

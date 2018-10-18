@@ -1,0 +1,11 @@
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\OSPS.Device.AdamModule.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\OSPS.Device.AdamModule.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\Advantech.Adam.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\Advantech.Common.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\Advantech.Protocol.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\Advantech.Adam.xml
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\Advantech.Protocol.xml
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\bin\Debug\Advantech.Common.xml
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\obj\Debug\OSPS.Device.AdamModule.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.AdamModule\obj\Debug\OSPS.Device.AdamModule.pdb

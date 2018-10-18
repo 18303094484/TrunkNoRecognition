@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="T_User">
+  <DataContextMoniker Name="/T_UserDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f112ea04-3db8-4f73-9411-6852a0bdba58" absoluteBounds="0.5, 0.5, 2, 1.9542057291666666">
+      <DataClassMoniker Name="/T_UserDataContext/T_User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3ae5f370-bcaa-41a3-b667-1fba31c2f6c5" absoluteBounds="0.51500000000000012, 0.96, 1.9700000000000002, 1.3942057291666665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2ae61aca-ccaf-4fc0-94dd-21e5db8e9ef0" absoluteBounds="3.375, 1.875, 2, 1.2797265625">
+      <DataClassMoniker Name="/T_UserDataContext/T_Group" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7f563fdf-457a-4d80-8964-0a02596bf522" absoluteBounds="3.39, 2.335, 1.9700000000000002, 0.7197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(3.375 : 2.16460286458333); (2.5 : 2.16460286458333)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/T_UserDataContext/T_Group/T_Group_T_User" />
+      <nodes>
+        <classShapeMoniker Id="2ae61aca-ccaf-4fc0-94dd-21e5db8e9ef0" />
+        <classShapeMoniker Id="f112ea04-3db8-4f73-9411-6852a0bdba58" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5add3deb-a6cd-4650-830f-1c2d58af9712" absoluteBounds="3.375, 5.25, 2, 1.2797265625">
+      <DataClassMoniker Name="/T_UserDataContext/T_Module" />
+      <nestedChildShapes>
+        <elementListCompartment Id="021c0821-1302-47f2-a1b2-8403c4175add" absoluteBounds="3.39, 5.71, 1.9700000000000002, 0.7197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="85c06bf5-1b31-43f5-9f4d-6a132d894e6d" absoluteBounds="3.375, 3.625, 2, 1.2797265625">
+      <DataClassMoniker Name="/T_UserDataContext/T_Rule" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c7d0cef2-cd6f-4e56-9c17-bbba70cb8a1c" absoluteBounds="3.39, 4.085, 1.9700000000000002, 0.7197265625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(4.375 : 3.1547265625); (4.375 : 3.625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/T_UserDataContext/T_Group/T_Group_T_Rule" />
+      <nodes>
+        <classShapeMoniker Id="2ae61aca-ccaf-4fc0-94dd-21e5db8e9ef0" />
+        <classShapeMoniker Id="85c06bf5-1b31-43f5-9f4d-6a132d894e6d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.375 : 5.25); (4.375 : 4.9047265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/T_UserDataContext/T_Module/T_Module_T_Rule" />
+      <nodes>
+        <classShapeMoniker Id="5add3deb-a6cd-4650-830f-1c2d58af9712" />
+        <classShapeMoniker Id="85c06bf5-1b31-43f5-9f4d-6a132d894e6d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

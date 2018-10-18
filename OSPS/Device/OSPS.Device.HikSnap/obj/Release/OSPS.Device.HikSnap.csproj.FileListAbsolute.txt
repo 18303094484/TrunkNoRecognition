@@ -1,0 +1,20 @@
+F:\liwy\2. 项目\7、莱州港储运\OSPS\HikSnap\bin\Release\HikSnap.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\HikSnap\bin\Release\HikSnap.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\HikSnap\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\HikSnap\obj\Release\HikSnap.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\HikSnap\obj\Release\HikSnap.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikSnap\bin\Release\HikSnap.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikSnap\bin\Release\HikSnap.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikSnap\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikSnap\obj\Release\HikSnap.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikSnap\obj\Release\HikSnap.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikSnap\bin\Release\HikSnap.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikSnap\bin\Release\HikSnap.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikSnap\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikSnap\obj\Release\HikSnap.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikSnap\obj\Release\HikSnap.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.HikSnap\bin\Release\HikSnap.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.HikSnap\bin\Release\HikSnap.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.HikSnap\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.HikSnap\obj\Release\HikSnap.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.HikSnap\obj\Release\HikSnap.pdb

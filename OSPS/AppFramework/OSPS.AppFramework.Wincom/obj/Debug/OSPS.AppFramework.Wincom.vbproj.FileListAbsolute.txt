@@ -1,0 +1,45 @@
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.Resources.resources
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.vbproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.Resources.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.vbproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\bin\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.vbproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.vbproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Wincom.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Wincom.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Wincom.xml
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.Resources.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.vbproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.xml
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Wincom\obj\Debug\OSPS.AppFramework.Wincom.pdb

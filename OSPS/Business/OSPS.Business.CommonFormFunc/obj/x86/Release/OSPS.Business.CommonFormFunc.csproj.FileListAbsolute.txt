@@ -1,0 +1,89 @@
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.dll
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.pdb
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.dll
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.dll
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.dll
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.dll
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.pdb
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.pdb
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.pdb
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.pdb
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\ResolveAssemblyReference.cache
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll.licenses
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll
+G:\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\ResolveAssemblyReference.cache
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll.licenses
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.pdb
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.AddContainForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.CraneForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.CraneListForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.frmChangePwd.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.LoginForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ReadIDForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ShowOrderForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.SubCompanyForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ViewSAPForm.resources
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.csproj.GenerateResource.Cache
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Device.IDReader.dll
+F:\DQZLOSPS\ZHUFENG Company\大庆中蓝\OSPS-930备份\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Device.IDReader.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Device.IDReader.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Device.IDReader.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\ResolveAssemblyReference.cache
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.AddContainForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.CraneForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.CraneListForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.frmChangePwd.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.LoginForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ReadIDForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ShowOrderForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.SubCompanyForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ViewSAPForm.resources
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.csproj.GenerateResource.Cache
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll.licenses
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll
+E:\ZHUFENG Company\大庆中蓝\OSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Business.CommonFormFunc.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Device.IDReader.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.Common.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.Device.IDReader.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\bin\x86\Release\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\ResolveAssemblyReference.cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.frmChangePwd.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.LoginForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ReadIDForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ShowOrderForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.TimeOptionForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.ViewSAPForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.csproj.GenerateResource.Cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll.licenses
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Business\OSPS.Business.CommonFormFunc\obj\x86\Release\OSPS.Business.CommonFormFunc.pdb

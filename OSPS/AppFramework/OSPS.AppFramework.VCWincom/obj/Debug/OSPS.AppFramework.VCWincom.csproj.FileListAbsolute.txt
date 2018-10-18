@@ -1,0 +1,5 @@
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VCWincom\bin\Debug\OSPS.AppFramework.VCWincom.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VCWincom\bin\Debug\OSPS.AppFramework.VCWincom.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VCWincom\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VCWincom\obj\Debug\OSPS.AppFramework.VCWincom.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VCWincom\obj\Debug\OSPS.AppFramework.VCWincom.pdb

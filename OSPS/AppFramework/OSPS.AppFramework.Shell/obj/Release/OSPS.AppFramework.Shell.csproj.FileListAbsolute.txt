@@ -1,0 +1,303 @@
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+D:\OSPSTest\bin\Release\OSPS.AppFramework.Shell.exe.config
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+D:\OSPSTest\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+D:\OSPSTest\bin\Release\OSPS.AppFramework.Shell.application
+D:\OSPSTest\bin\Release\OSPS.AppFramework.Shell.exe
+D:\OSPSTest\bin\Release\OSPS.AppFramework.Shell.pdb
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+D:\OSPSTest\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\SAP系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+D:\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+D:\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+D:\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+D:\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+D:\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+D:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+D:\ABOSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+D:\ABOSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+D:\ABOSPS\bin\Release\OSPS.AppFramework.Shell.application
+D:\ABOSPS\bin\Release\OSPS.AppFramework.Shell.exe
+D:\ABOSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+D:\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\青岛安邦\ABOSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\青岛安邦\ABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+F:\liwy\2. 项目\7、莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+F:\liwy\2. 项目\7、莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+D:\VS Prj\LaiZhou\LZOSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+D:\VS Prj\LaiZhou\LZOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+D:\VS Prj\LaiZhou\LZOSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\OSPS\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmLogin.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.config
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.Shell.application
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\bin\Release\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.licenses
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.exe.manifest
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.application
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.MainForm.resources
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.frmMain.resources
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Release\OSPS.AppFramework.Shell.ChangeTrunkNoForm.resources

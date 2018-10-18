@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="ZHOSPS" Class="T_OrderStateDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=YYX\MSSQLSERVER_R2;Initial Catalog=ZHOSPS;Persist Security Info=True;User ID=sa" SettingsObjectName="OSPS.AppFramework.DBModule.Properties.Settings" SettingsPropertyName="ZHOSPSConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.T_OrderStatus" Member="T_OrderStatus">
+    <Type Name="T_OrderStatus">
+      <Column Name="F_ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="F_Name" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

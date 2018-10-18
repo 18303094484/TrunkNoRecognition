@@ -1,0 +1,92 @@
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\UIBase\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\UIBase\obj\Debug\OSPS.AppFramework.ViewBase.View.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\UIBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\UIBase\obj\Debug\UIBase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\UIBase\obj\Debug\UIBase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\ViewBase\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.View.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\ViewBase\obj\Debug\UIBase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\bin\Debug\UIBase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\bin\Debug\UIBase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\ViewBase\obj\Debug\UIBase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\bin\Debug\OSPS.AppFramework.ViewBase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\bin\Debug\OSPS.AppFramework.ViewBase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+D:\油品销售流程监控管理系统\AppFramework\bin\Debug\OSPS.AppFramework.ViewBase.dll
+D:\油品销售流程监控管理系统\AppFramework\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.ViewBase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.ViewBase.pdb
+D:\Job\OSPS\bin\OSPS.AppFramework.ViewBase.dll
+D:\Job\OSPS\bin\OSPS.AppFramework.ViewBase.pdb
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+G:\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.dll
+G:\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+G:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+G:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+G:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+G:\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.UIView.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.csproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll.licenses
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.ViewBase\obj\Debug\OSPS.AppFramework.ViewBase.pdb

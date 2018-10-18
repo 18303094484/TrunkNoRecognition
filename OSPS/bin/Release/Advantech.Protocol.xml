@@ -1,0 +1,469 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Advantech.Protocol</name>
+    </assembly>
+    <members>
+        <member name="T:Advantech.Protocol.ModbusDataType">
+            <summary>
+            The MODBUS data segement type.
+            </summary>
+        </member>
+        <member name="F:Advantech.Protocol.ModbusDataType.CoilStatus">
+            <summary>
+            MODBUS coil status (0x references)
+            </summary>
+        </member>
+        <member name="F:Advantech.Protocol.ModbusDataType.InputStatus">
+            <summary>
+            MODBUS input status (1x references)
+            </summary>
+        </member>
+        <member name="F:Advantech.Protocol.ModbusDataType.InputRegister">
+            <summary>
+            MODBUS input register (3x references)
+            </summary>
+        </member>
+        <member name="F:Advantech.Protocol.ModbusDataType.HoldingRegister">
+            <summary>
+            MODBUS holding register (4x references)
+            </summary>
+        </member>
+        <member name="T:Advantech.Protocol.ModbusRTU">
+            <summary>
+            ModbusRTU class is used as a MODBUS packet constructor
+            as well as a MODBUS packet parse for those running on serial
+            communication.
+            </summary>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.#cctor">
+            <summary>
+            ModbusRTU static class
+            </summary>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructSendPacket(System.Int32,System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct Function 1-4 sending packet
+            </summary>
+            <param name="i_iAddr">Target address</param>
+            <param name="i_iFun">Function number</param>
+            <param name="i_iStartIndex">Start index</param>
+            <param name="i_iTotalPoint">Total point</param>
+            <param name="o_byPacket">packet data</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyRecvPacket(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse Function 1-4 received packet
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructReadCoilStatus(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 01 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyReadCoilStatus(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 01
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructReadInputStatus(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 02 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyReadInputStatus(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 02
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructReadHoldingRegs(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 03 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyReadHoldingRegs(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 03
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructReadInputRegs(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 04 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyReadInputRegs(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 04
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructForceSingleCoil(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 05 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iCoilIndex">The coil index for setting</param>
+            <param name="i_iData">The data to set, 0 for OFF, 1 for ON</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyForceSingleCoil(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 05
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructPresetSingleReg(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 06 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address.</param>
+            <param name="i_iRegIndex">The register index for setting.</param>
+            <param name="i_iData">The data to set.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyPresetSingleReg(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 06
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructForceMultiCoils(System.Int32,System.Int32,System.Int32,System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Construct modbus function 0F sending packet
+            </summary>
+            <param name="i_iAddr">The slave address.</param>
+            <param name="i_iCoilIndex">The start coil index for setting.</param>
+            <param name="i_iTotalPoint">The total coil to set.</param>
+            <param name="i_iTotalByte">The total byte of data.</param>
+            <param name="i_byData">The data to set.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyForceMultiCoils(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 0F
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructPresetMultiRegs(System.Int32,System.Int32,System.Int32,System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Construct modbus function 10 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartReg">The start register index for setting.</param>
+            <param name="i_iTotalReg">The total register to set.</param>
+            <param name="i_iTotalByte">The total byte of data.</param>
+            <param name="i_byData">The data to set.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyPresetMultiRegs(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 10
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.ConstructReadAdvantechRegs(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 20 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusRTU.VerifyReadAdvantechRegs(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 03
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="P:Advantech.Protocol.ModbusRTU.LastError">
+            <summary>
+            The last error code
+            </summary>
+        </member>
+        <member name="T:Advantech.Protocol.ModbusTCP">
+            <summary>
+            ModbusTCP class is used as a MODBUS/TCP packet constructor
+            as well as a MODBUS/TCP packet parse for those running on
+            ethernet communication.
+            </summary>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.#cctor">
+            <summary>
+            ModbusTCP static class
+            </summary>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructSendPacket(System.Int32,System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct Function 1-4 sending packet
+            </summary>
+            <param name="i_iAddr">Target address</param>
+            <param name="i_iFun">Function number</param>
+            <param name="i_iStartIndex">Start index</param>
+            <param name="i_iTotalPoint">Total point</param>
+            <param name="o_byPacket">packet data</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyRecvPacket(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse Function 1-4 received packet
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructReadCoilStatus(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 01 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyReadCoilStatus(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 01
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructReadInputStatus(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 02 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyReadInputStatus(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 02
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructReadHoldingRegs(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 03 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyReadHoldingRegs(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 03
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructReadInputRegs(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 04 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyReadInputRegs(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 04
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructForceSingleCoil(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 05 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iCoilIndex">The coil index for setting</param>
+            <param name="i_iData">The data to set, 0 for OFF, 1 for ON</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyForceSingleCoil(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 05
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructPresetSingleReg(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 06 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address.</param>
+            <param name="i_iRegIndex">The register index for setting.</param>
+            <param name="i_iData">The data to set.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyPresetSingleReg(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 06
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructForceMultiCoils(System.Int32,System.Int32,System.Int32,System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Construct modbus function 0F sending packet
+            </summary>
+            <param name="i_iAddr">The slave address.</param>
+            <param name="i_iCoilIndex">The start coil index for setting.</param>
+            <param name="i_iTotalPoint">The total coil to set.</param>
+            <param name="i_iTotalByte">The total byte of data.</param>
+            <param name="i_byData">The data to set.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyForceMultiCoils(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 0F
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructPresetMultiRegs(System.Int32,System.Int32,System.Int32,System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Construct modbus function 10 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartReg">The start register index for setting.</param>
+            <param name="i_iTotalReg">The total register to set.</param>
+            <param name="i_iTotalByte">The total byte of data.</param>
+            <param name="i_byData">The data to set.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyPresetMultiRegs(System.Int32,System.Byte[],System.Int32,System.Byte[])">
+            <summary>
+            Parse the received packet for modbus function 10
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.ConstructReadAdvantechRegs(System.Int32,System.Int32,System.Int32,System.Byte[]@)">
+            <summary>
+            Construct modbus function 20 sending packet
+            </summary>
+            <param name="i_iAddr">The slave address</param>
+            <param name="i_iStartIndex">The starting index for reading.</param>
+            <param name="i_iTotalPoint">The total point for reading.</param>
+            <param name="o_byPacket">The packet to send.</param>
+        </member>
+        <member name="M:Advantech.Protocol.ModbusTCP.VerifyReadAdvantechRegs(System.Int32,System.Byte[],System.Int32,System.Byte[],System.Byte[]@)">
+            <summary>
+            Parse the received packet for modbus function 20
+            </summary>
+            <param name="i_iSendLen">The length of sent packet.</param>
+            <param name="i_bySendPacket">The sent packet.</param>
+            <param name="i_iRecvLen">The length of received packet.</param>
+            <param name="i_byRecvPacket">The received packet.</param>
+            <param name="o_byRecvData">The data read.</param>
+            <returns>True if succeed, otherwise false</returns>
+        </member>
+        <member name="P:Advantech.Protocol.ModbusTCP.LastError">
+            <summary>
+            The last error code
+            </summary>
+        </member>
+    </members>
+</doc>

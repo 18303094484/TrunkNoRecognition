@@ -1,0 +1,88 @@
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.SysConfigure.UserInfo.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.SysConfigure.UserInfo.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.SysConfigure.UserInfo.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.SysConfigure.UserInfo.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.Common.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.DBModule.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.Shell.exe
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.ViewBase.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.Business.CreateCard.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.Business.CreateCard.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.Shell.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.Common.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\bin\Debug\OSPS.AppFramework.DBModule.pdb
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+D:\zhangWork\液化气装车\油品销售流程监控管理系统\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\bak\2010.6.20-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+E:\ZhuFeng Company\山东华星\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+E:\ZhuFeng Company\山东华星\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\程序\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\程序\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+E:\ZhuFeng Company\山东华星\程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+E:\ZhuFeng Company\山东华星\程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\ui\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\ui\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\ui\OSPS.SysConfigure.UserInfo.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\ui\OSPS.SysConfigure.UserInfo.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\ui\OSPS.SysConfigure.UserInfo.pdb
+E:\Work\正和化工\OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.ModuleView.resources
+E:\Work\正和化工\OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.csproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll.licenses
+E:\Work\正和化工\OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.dll
+E:\Work\正和化工\OSPS\OSPS\SysConfigure\OSPS.SysConfigure.UserInfo\obj\Debug\OSPS.SysConfigure.UserInfo.pdb

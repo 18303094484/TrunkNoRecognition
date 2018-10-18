@@ -1,0 +1,10 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartAction>Program</StartAction>
+    <StartProgram>E:\ZhuFeng Company\山东华星\OSPS\bin\OSPS.AppFramework.Shell.exe</StartProgram>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <StartProgram>E:\ZhuFeng Company\山东华星\OSPS\bin\OSPS.AppFramework.Shell.exe</StartProgram>
+    <StartAction>Program</StartAction>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MLEDDisplayCfg>
+  <!--公共配置-->
+  <CommonConfigure>
+    <!--显示车牌号的长度-->
+    <add key="TruckNoLength" value="15" />
+    <!--字体名称-->
+    <add key="FontName" value="宋体" />
+    <!--字体大小-->
+    <add key="FontSize" value="150" />
+  </CommonConfigure>
+  <!--本地配置-->
+  <LocalConfigure>
+    <add key="WindowLeft" value="194" />
+    <add key="WindowTop" value="79" />
+    <add key="WindowWidth" value="900" />
+    <add key="WindowHeight" value="511" />
+  </LocalConfigure>
+  <!--主程序配置-->
+  <MainUIConfigure>
+    <add key="WindowLeft" value="0" />
+    <add key="WindowTop" value="200" />
+    <add key="WindowWidth" value="1366" />
+    <add key="WindowHeight" value="568" />
+  </MainUIConfigure>
+</MLEDDisplayCfg>

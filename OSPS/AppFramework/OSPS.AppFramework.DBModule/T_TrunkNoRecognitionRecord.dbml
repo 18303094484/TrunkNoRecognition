@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="ZHOSPS" Class="T_TrunkNoRecognitionRecordDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=YYX\MSSQLSERVER_R2;Initial Catalog=ZHOSPS;Persist Security Info=True;User ID=sa" SettingsObjectName="OSPS.AppFramework.DBModule.Properties.Settings" SettingsPropertyName="ZHOSPSConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.T_TrunkNoRecognitionRecord" Member="T_TrunkNoRecognitionRecord">
+    <Type Name="T_TrunkNoRecognitionRecord">
+      <Column Name="F_TrunkNo" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="F_EnterTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="F_State" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="F_ImageIndex" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

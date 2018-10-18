@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<XMLConfigure xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ConfigureList>
+    <string>admin</string>
+    <string />
+    <string />
+    <string />
+    <string />
+    <string />
+  </ConfigureList>
+</XMLConfigure>

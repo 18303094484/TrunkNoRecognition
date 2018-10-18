@@ -1,0 +1,175 @@
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\OSPSShell\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\OSPSShell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\OSPSShell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\OSPSShell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\OSPSShell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\AccessDatabase.exe
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\UIBase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\AccessDatabase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\UIBase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\OSPS.AppFramework.Shell.exe.config
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\OSPS.AppFramework.Shell.exe
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\OSPS.AppFramework.Shell.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\OSPS.AppFramework.ViewBase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\bin\Debug\OSPS.AppFramework.ViewBase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.exe.config
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.exe
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Shell.exe.config
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Shell.exe
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Shell.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+H:\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.exe.config
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+H:\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.exe
+H:\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.pdb
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+H:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+D:\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.exe.config
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+D:\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.exe
+D:\油品销售流程监控管理系统\bin\OSPS.AppFramework.Shell.pdb
+D:\TestProject\AppFramework\bin\OSPS.AppFramework.Shell.exe.config
+D:\TestProject\AppFramework\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+D:\TestProject\AppFramework\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\bin\OSPS.AppFramework.Shell.exe.config
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\bin\OSPS.AppFramework.Shell.exe
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\bin\OSPS.AppFramework.Shell.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+D:\Job\OSPS\bin\OSPS.AppFramework.Shell.exe.config
+D:\Job\OSPS\bin\OSPS.AppFramework.Shell.exe
+D:\Job\OSPS\bin\OSPS.AppFramework.Shell.pdb
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+D:\Job\OSPS\bin\OSPS.AppFramework.Shell.exe.manifest
+D:\Job\OSPS\bin\OSPS.AppFramework.Shell.application
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Shell.exe.manifest
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Shell.application
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe.config
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.LoadingForm.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.LoadingForm.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.RegisterForm.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+G:\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe.config
+G:\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe.manifest
+G:\OSPS\bin\Debug\OSPS.AppFramework.Shell.application
+G:\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe
+G:\OSPS\bin\Debug\OSPS.AppFramework.Shell.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application
+G:\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe.config
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe.manifest
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Shell.application
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Shell.exe
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Shell.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmChangePwd.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmLogin.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.frmMain.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.LoadingForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.Properties.Resources.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.RegisterForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.csproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.licenses
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.exe.manifest
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Shell\obj\Debug\OSPS.AppFramework.Shell.application

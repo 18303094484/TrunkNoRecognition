@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[SmartShell.csproj]
+SCC_Aux_Path = "F:\VSSDB"
+SCC_Project_Name = "$/SmartMultiUI.root/SmartMultiUI/SmartMultiUI", MKBAAAAA
+
+[OSPS.AppFramework.Shell.csproj]
+SCC_Aux_Path = "D:\Program Files\Microsoft Visual SourceSafe\VSSDB"
+SCC_Project_Name = "$/OSPS/AppFramework/OSPS.AppFramework.Shell", YEBAAAAA

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="T_TruckRule">
+  <DataContextMoniker Name="/T_TruckRuleDataContext" />
+  <nestedChildShapes>
+    <classShape Id="5737c13c-53a2-4447-9e62-ecfdb86cd1d4" absoluteBounds="1.125, 2.5, 2, 2.7973046875">
+      <DataClassMoniker Name="/T_TruckRuleDataContext/T_TruckRule" />
+      <nestedChildShapes>
+        <elementListCompartment Id="12d5022e-eea2-41a6-9914-80475ff4348c" absoluteBounds="1.1400000000000001, 2.96, 1.9700000000000002, 2.2373046875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

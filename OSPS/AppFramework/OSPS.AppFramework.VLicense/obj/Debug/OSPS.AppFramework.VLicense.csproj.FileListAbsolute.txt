@@ -1,0 +1,15 @@
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.VLicense\bin\Debug\OSPS.AppFramework.VLicense.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.VLicense\bin\Debug\OSPS.AppFramework.VLicense.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\OSPS.AppFramework.VLicense.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\OSPS.AppFramework.VLicense.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.VLicense\bin\Debug\OSPS.AppFramework.VLicense.dll
+G:\OSPS\AppFramework\OSPS.AppFramework.VLicense\bin\Debug\OSPS.AppFramework.VLicense.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\ResolveAssemblyReference.cache
+G:\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\OSPS.AppFramework.VLicense.dll
+G:\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\OSPS.AppFramework.VLicense.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VLicense\bin\Debug\OSPS.AppFramework.VLicense.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VLicense\bin\Debug\OSPS.AppFramework.VLicense.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\OSPS.AppFramework.VLicense.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.VLicense\obj\Debug\OSPS.AppFramework.VLicense.pdb

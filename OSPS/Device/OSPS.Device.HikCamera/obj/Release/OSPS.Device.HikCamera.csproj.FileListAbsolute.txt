@@ -1,0 +1,45 @@
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+D:\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+D:\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+D:\OSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+D:\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+D:\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+D:\ABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+D:\ABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+D:\ABOSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+D:\ABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+D:\ABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+F:\liwy\2. 项目\3、青岛安邦\3、蓬莱一卡通\PLABOSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\bin\Release\OSPS.Device.HikCamera.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.HikCamera\obj\Release\OSPS.Device.HikCamera.pdb

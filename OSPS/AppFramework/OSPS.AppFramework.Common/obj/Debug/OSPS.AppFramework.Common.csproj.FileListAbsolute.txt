@@ -1,0 +1,88 @@
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.Common.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.Common.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.DBModule.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.DBModule.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.Common.dll
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.Common.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.DBModule.dll
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.DBModule.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.DBModule.dll
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.DBModule.pdb
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\程序\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.Common\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Common.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\bin\OSPS.AppFramework.Common.pdb
+D:\Job\OSPS\bin\OSPS.AppFramework.Common.dll
+D:\Job\OSPS\bin\OSPS.AppFramework.Common.pdb
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\OSPS\bin\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\程序\OSPS\bin\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.SelectCOMPortForm.resources
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\bin\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.SelectCOMPortForm.resources
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.SelectCOMPortForm.resources
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Debug\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.PromptForm.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.PromptInputForm.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.SelectCOMPortForm.resources
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.csproj.GenerateResource.Cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll.licenses
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+G:\OSPS\bin\Debug\OSPS.AppFramework.Common.dll
+G:\OSPS\bin\Debug\OSPS.AppFramework.Common.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.PromptForm.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.PromptInputForm.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.SelectCOMPortForm.resources
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.csproj.GenerateResource.Cache
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll.licenses
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+G:\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Common.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.Common.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.PromptForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.PromptInputForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.SelectCOMPortForm.resources
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.csproj.GenerateResource.Cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll.licenses
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.Common\obj\Debug\OSPS.AppFramework.Common.pdb

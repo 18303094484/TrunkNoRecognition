@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Database Name="HXPDOSPS" Class="T_TruckRuleDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=127.0.0.1;Initial Catalog=HXPDOSPS;Persist Security Info=True;User ID=root" SettingsObjectName="OSPS.AppFramework.DBModule.Properties.Settings" SettingsPropertyName="HXPDOSPSConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.T_TruckRule" Member="T_TruckRule">
+    <Type Name="T_TruckRule">
+      <Column Name="F_ID" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="F_TruckNo" Type="System.String" DbType="VarChar(20) NOT NULL" CanBeNull="false" />
+      <Column Name="F_DriverName" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="F_Telephone" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="F_Reason" Type="System.String" DbType="VarChar(512) NOT NULL" CanBeNull="false" />
+      <Column Name="F_Solution" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="F_Result" Type="System.String" DbType="VarChar(512)" CanBeNull="true" />
+      <Column Name="F_Status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="F_ReportBy" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="F_ReportTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="F_Operator" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="F_OpTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

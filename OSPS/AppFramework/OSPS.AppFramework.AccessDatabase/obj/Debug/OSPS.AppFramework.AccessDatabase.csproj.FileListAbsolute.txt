@@ -1,0 +1,55 @@
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\bin\Debug\AccessDatabase.exe
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\bin\Debug\AccessDatabase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\obj\Debug\AccessDatabase.exe
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\obj\Debug\AccessDatabase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\Documents and Settings\Administrator\My Documents\zhoujunfeng\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\油品销售流程监控管理系统\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+D:\Job\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\周军峰\2010.6.29-OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\山东华星\上位机程序\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+G:\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb
+G:\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+G:\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+G:\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\Work\正和化工\OSPS\OSPS\bin\Debug\OSPS.AppFramework.AccessDatabase.pdb
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.dll
+E:\Work\正和化工\OSPS\OSPS\AppFramework\OSPS.AppFramework.AccessDatabase\obj\Debug\OSPS.AppFramework.AccessDatabase.pdb

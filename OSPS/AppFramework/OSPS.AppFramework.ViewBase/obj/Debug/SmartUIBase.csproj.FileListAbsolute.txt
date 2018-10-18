@@ -1,0 +1,16 @@
+D:\TestProject\SmartMultiUI\UIBase\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\SmartMultiUI\UIBase\obj\Debug\SmartUIBase.UIBase.resources
+D:\TestProject\SmartMultiUI\UIBase\obj\Debug\SmartUIBase.csproj.GenerateResource.Cache
+D:\TestProject\SmartMultiUI\UIBase\bin\Debug\UIBase.dll
+D:\TestProject\SmartMultiUI\UIBase\bin\Debug\UIBase.pdb
+D:\TestProject\SmartMultiUI\UIBase\obj\Debug\UIBase.dll
+D:\TestProject\SmartMultiUI\UIBase\obj\Debug\UIBase.pdb
+E:\Myjob\SmartMultiUI\UIBase\bin\Debug\UIBase.dll
+E:\Myjob\SmartMultiUI\UIBase\bin\Debug\UIBase.pdb
+E:\Myjob\SmartMultiUI\UIBase\obj\Debug\ResolveAssemblyReference.cache
+E:\Myjob\SmartMultiUI\UIBase\obj\Debug\SmartUIBase.UIBase.resources
+E:\Myjob\SmartMultiUI\UIBase\obj\Debug\SmartUIBase.csproj.GenerateResource.Cache
+E:\Myjob\SmartMultiUI\UIBase\obj\Debug\UIBase.dll
+E:\Myjob\SmartMultiUI\UIBase\obj\Debug\UIBase.pdb
+E:\Myjob\SmartMultiUI\bin\Debug\UIBase.dll
+E:\Myjob\SmartMultiUI\bin\Debug\UIBase.pdb

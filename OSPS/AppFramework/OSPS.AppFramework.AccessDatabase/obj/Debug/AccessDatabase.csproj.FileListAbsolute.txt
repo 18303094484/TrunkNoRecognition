@@ -1,0 +1,7 @@
+D:\TestProject\AccessDatabase\bin\Debug\AccessDatabase.exe
+D:\TestProject\AccessDatabase\bin\Debug\AccessDatabase.pdb
+D:\TestProject\AccessDatabase\obj\Debug\ResolveAssemblyReference.cache
+D:\TestProject\AccessDatabase\obj\Debug\AccessDatabase.exe
+D:\TestProject\AccessDatabase\obj\Debug\AccessDatabase.pdb
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\obj\Debug\AccessDatabase.exe
+d:\My Documents\Visual Studio 2008\Projects\油品销售流程监控管理系统\AppFramework\AccessDatabase\obj\Debug\AccessDatabase.pdb

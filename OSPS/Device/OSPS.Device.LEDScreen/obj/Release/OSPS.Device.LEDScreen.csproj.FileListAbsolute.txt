@@ -1,0 +1,121 @@
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Wincom.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Wincom.pdb
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Wincom.xml
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\山东华星\排队叫号系统\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\山东华星\地磅远程计量\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\青岛安邦\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+D:\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+D:\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+D:\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+D:\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\ZhuFeng Company\青岛安邦\ABOSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\ZHUFENG Company\青岛安邦\PLABOSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+F:\liwy\2. 项目\7、莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+F:\liwy\2. 项目\7. 莱州港储运\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\Work\正和化工\OSPS\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.Device.LEDScreen.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\Interop.SpeechLib.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.DBModule.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.Common.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\bin\Release\OSPS.AppFramework.VLicense.pdb
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\ResolveAssemblyReference.cache
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.dll
+E:\Work\正和化工\车牌识别系统\OSPS_车牌识别\OSPS\Device\OSPS.Device.LEDScreen\obj\Release\OSPS.Device.LEDScreen.pdb
